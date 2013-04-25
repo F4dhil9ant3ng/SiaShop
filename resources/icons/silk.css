@@ -1,0 +1,32 @@
+.icon-32 { height:32px; width:32px}
+.icon-24 { height:24px; width:24px}
+
+.silk-user-add { background-image: url(fam/user_add.png) !important; background-repeat: no-repeat; }
+.silk-user-edit { background-image: url(fam/user_edit.png) !important; background-repeat: no-repeat; }
+.silk-user-delete { background-image: url(fam/user_delete.png) !important; background-repeat: no-repeat; }
+.silk-user-setpassword { background-image: url(fam/key.png) !important; background-repeat: no-repeat; }
+.silk-user-setdosen { background-image: url(fam/report_edit.png) !important; background-repeat: no-repeat; }
+.silk-form-add { background-image: url(fam/application_form_add.png) !important; background-repeat: no-repeat; }
+.silk-form-edit { background-image: url(fam/application_form_edit.png) !important; background-repeat: no-repeat; }
+.silk-form-delete { background-image: url(fam/application_form_delete.png) !important; background-repeat: no-repeat; }
+.silk-search { background-image: url(fam/magnifier.png) !important; background-repeat: no-repeat; }
+.silk-add { background-image: url(fam/add.png) !important; background-repeat: no-repeat; }
+.silk-accept { background-image: url(fam/accept.png) !important; background-repeat: no-repeat; }
+.silk-reject { background-image: url(fam/delete.png) !important; background-repeat: no-repeat; }
+.silk-print { background-image: url(fam/printer.png) !important; background-repeat: no-repeat; }
+.silk-report { background-image: url(fam/report.png) !important; background-repeat: no-repeat; }
+.silk-report-magnify { background-image: url(fam/report_magnify.png) !important; background-repeat: no-repeat; }
+.silk-cross { background-image: url(fam/cross.png) !important; background-repeat: no-repeat; }
+.silk-export { background-image: url(fam/door_out.png) !important; background-repeat: no-repeat; }
+.silk-import { background-image: url(fam/door_in.png) !important; background-repeat: no-repeat; }
+
+.x-action-col-cell img {height: 16px; width: 16px; cursor: pointer;}
+.x-action-col-cell img.act-add {background-image: url(fam/add.png);}
+.x-action-col-cell img.act-delete {background-image: url(fam/delete.png);}
+.x-action-col-cell img.act-accept {background-image: url(fam/accept.png);}
+.x-action-col-cell img.act-reject {background-image: url(fam/delete.png);}
+.x-ie6 .x-action-col-cell img {position:relative;top:-1px;}
+.x-ie6.x-action-col-cell img.act-add {background-image: url(fam/add.png);}
+.x-ie6.x-action-col-cell img.act-delete {background-image: url(fam/delete.png);}
+.x-ie6.x-action-col-cell img.act-accept {background-image: url(fam/accept.png);}
+.x-ie6.x-action-col-cell img.act-reject {background-image: url(fam/delete.png);}

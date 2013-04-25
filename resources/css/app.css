@@ -1,0 +1,163 @@
+html{
+	height: 100%;
+}
+body{
+	font-family:'lucida grande',tahoma,arial,sans-serif;
+	font-size:11px;
+	color:#333;
+	height: 100%;
+}
+a{
+	text-decoration:none;
+	color:#333;
+	font-weight:bold;
+}
+#appHeader{
+	background-image:url(../images/hdSP-bg.jpg);
+	background-repeat:repeat-x;
+	height:30px;
+}
+#stAppLogo{
+	float:left;
+	padding:5px;
+	font:Arial, Helvetica, sans-serif;
+	font-size:large;
+	font-weight:bold;
+	color:white;
+}
+#appLoading{
+	float:left;
+	padding:5px 10px;
+}
+#warning{
+	border:1px solid #333;
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:red;
+	background-color:#F8F8F8;
+	float:right;
+	padding:5px;
+	margin:25px 10px;
+}
+.stBodyContainer{
+	text-align:left;
+	width:800px;
+	margin-right:auto;
+	margin-left:auto;
+	padding:0px;
+	background-image:url(../images/bg.jpg);
+	background-repeat:repeat-x;
+	background-color:#C1D0EE;
+}
+.stBody{
+	clear:both;
+	text-align:left;
+	height:680px;
+	margin:0px;
+	padding:0px;
+}
+.stBodyPanelContainer{
+	float:left;
+	border:1px solid #82A9DF;
+	width:200px;
+	margin-top:10px;
+	background-color:#FBFCFE;
+}
+.stBodyPanelHeader{
+	font-weight:bold;
+	background-image:url(../../extjs/resources/themes/images/default/panel-header/panel-header-default-top-bg.gif);
+	background-repeat:repeat-x;
+	padding:5px 0 5px 5px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#82A9DF;
+	font-family:Arial;
+	font-size:11px;
+	color:#004D8A;
+}
+.stBodyPanelBody{
+	font:11px Arial;
+	font-weight:bold;
+	background-color:#FBFCFE;
+}
+.stBodyPanelBody a{
+	color:#444;
+	text-decoration:none;
+	text-align:left;
+	display:block;
+	padding:5px 10px;
+}
+.stBodyPanelBody a:hover{
+	color:#2A416F;
+	text-decoration:none;
+	text-align:left;
+	display:block;
+	background-color:#EEEEEE;
+	padding:5px 20px;
+}
+.stTileContainer{
+	float:left;
+	border:1px solid #82A9DF;
+	width:200px;
+	margin-top:10px;
+	background-color:#FBFCFE;
+}
+.stWarning{
+	font-size:11px;
+	color:red;
+	font-weight:bold;
+	background-color:#BCD3FE;
+	border:1px solid #82A9DF;
+	padding:2px 5px;
+	margin:15px 0px 0px 0px;
+}
+.stADescription{
+	padding-left:20px;
+	padding-right:20px;
+	font-weight:normal;
+}
+.stBioContainer{
+	float:left;
+	clear:both;
+	width:248px;
+	border-top:0px;
+	border-right:0px;
+	border-bottom:1px solid #82A9DF;
+	border-left:0px;
+}
+.stBioContainerHeader{
+	font-weight:bold;
+	background-image:url(../../extjs/resources/themes/images/default/panel-header/panel-header-default-top-bg.gif);
+	background-repeat:repeat-x;
+	padding:5px 0 5px 5px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#82A9DF;
+	font-size:11px;
+	color:#004D8A;
+}
+.stBioContainerBody{
+	font-weight:normal;
+	background-color:#FBFCFE;
+	font-size:11px;
+}
+.stBioContainerBody a{
+	clear:both;
+	color:#333;
+	text-decoration:none;
+	text-align:left;
+	font-weight:normal;
+	display:block;
+	padding:5px;
+	border-bottom:1px solid #F3F7FB;
+	cursor:text;
+}
+.stBioContainerBody a:hover{
+	display:block;
+	background-color:#EEEEEE;
+	cursor:text;
+}
+.stBioProperties{
+}
+.stBioValue{
+}
